@@ -1,10 +1,10 @@
 Test these URLS:
 
-restaurant/menu/
-restaurant/menu/items/
-restaurant/booking/
-auth/
-auth/users/
-
-After adding menu items with API:
-restaurant/menu/items/1/
+restaurant/menu/ <br>
+restaurant/menu/items/ <br>
+restaurant/booking/ <br>
+auth/ <br>
+auth/users/ <br>
+<br>
+After adding menu items with API: <br>
+restaurant/menu/items/1/ <br>
